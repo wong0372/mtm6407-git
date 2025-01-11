@@ -1,2 +1,1 @@
-# mtm6407-git
-This is my first git repo
+## This is my first git repo and hello again
